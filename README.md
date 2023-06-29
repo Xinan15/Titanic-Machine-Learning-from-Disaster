@@ -41,3 +41,6 @@ parch: The dataset defines family relations in this way...<br>
 Parent = mother, father<br>
 Child = daughter, son, stepdaughter, stepson<br>
 Some children travelled only with a nanny, therefore parch=0 for them.<br>
+
+***Data Source: Kaggle***<br>
+https://www.kaggle.com/competitions/titanic/data?select=train.csv
